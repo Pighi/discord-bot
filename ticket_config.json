@@ -1,0 +1,38 @@
+{
+    "donator": {
+        "category_id": 1408785848878501920,
+        "staff_roles": [
+            1407745418523316345
+        ],
+        "description": "This is used to buy assets like EDM . Memberships amd Passes etc.",
+        "require_reason": false,
+        "close_permission": "staff"
+    },
+    "player report": {
+        "category_id": 1408785848878501920,
+        "staff_roles": [
+            1407745418523316345
+        ],
+        "description": "This is used to report a player about a incident happened ingame",
+        "require_reason": false,
+        "close_permission": "staff"
+    },
+    "application inquiries": {
+        "category_id": 1408785848878501920,
+        "staff_roles": [
+            1407745418523316345
+        ],
+        "description": "This is used to get info about any applications like staff , LSPD , EMS ETC...",
+        "require_reason": false,
+        "close_permission": "staff"
+    },
+    "general ticket": {
+        "category_id": 1408785848878501920,
+        "staff_roles": [
+            1407745418523316345
+        ],
+        "description": "This is used for general staff assistance.",
+        "require_reason": false,
+        "close_permission": "staff"
+    }
+}
